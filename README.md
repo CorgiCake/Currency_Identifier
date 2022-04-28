@@ -9,6 +9,12 @@
 
 ---
 
+## 示範影片
+* [操作影片連結](https://youtu.be/SH1grgiGaM4)
+  ![image](https://github.com/CorgiCake/Logic-Design-Final-Project/blob/main/final.jpeg)
+
+---
+
 ## 語言環境
 * 語言：Python 3.9
 * 環境：CUDA : 11.1  
