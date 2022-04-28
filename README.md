@@ -23,7 +23,7 @@
 ## 圖片資料
 * 國家種類：Iraqi, India, Nepal, HongKong, Taiwan
 * 幣值種類：10, 20, 50, 100, 200, 500, 1000, 2000, 5000
-* 雲端連結：https://drive.google.com/file/d/1_GzW2TInJAY-S0pY5MjByqhSp6ksat3v/view?usp=sharing  
+* 雲端連結：https://drive.google.com/file/d/1W3CCQL19SmAmhOtUXP7k2P3bpHARbmNl/view?usp=sharing  
 內包含圖片資料、模型權重、label.csv
 
 
