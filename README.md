@@ -9,7 +9,7 @@
 
 ---
 
-## Project封面
+## Project預覽
 * ![image](https://github.com/CorgiCake/Currency_Identifier/blob/main/title.jpg)
 
 ---
