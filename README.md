@@ -8,16 +8,15 @@
 ### 109321040 資工二 林興政
 
 ---
-## 示範影片
-* [操作影片連結](https://youtu.be/SH1grgiGaM4)
-  ![image](https://github.com/CorgiCake/Logic-Design-Final-Project/blob/main/final.jpeg)
-
 
 ## 語言環境
 * 語言：Python3.9
 * 環境：CUDA:11.1
        cuDNN:8.0.5
        tensorflow:2.8.0
+       
+## 圖片資料
+* 雲端連結：https://drive.google.com/file/d/1_GzW2TInJAY-S0pY5MjByqhSp6ksat3v/view?usp=sharing
 
 
 ---
