@@ -1,5 +1,4 @@
 # Currency_Identifier
-# Currency_Identifier
 
 ---
 
