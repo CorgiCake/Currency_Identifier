@@ -11,9 +11,9 @@
 
 ## 語言環境
 * 語言：Python 3.9
-* 環境：CUDA:11.1  
-&emsp;&emsp;&emsp;cuDNN:8.0.5  
-&emsp;&emsp;&emsp;tensorflow:2.8.0
+* 環境：CUDA : 11.1  
+&emsp;&emsp;&emsp;cuDNN : 8.0.5  
+&emsp;&emsp;&emsp;tensorflow : 2.8.0
        
 ## 圖片資料
 * 雲端連結：https://drive.google.com/file/d/1_GzW2TInJAY-S0pY5MjByqhSp6ksat3v/view?usp=sharing
